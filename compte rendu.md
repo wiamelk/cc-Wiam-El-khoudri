@@ -2,7 +2,7 @@
 
 ## Informations du Projet
 
-**Auteur** : [Votre Nom]  
+**Auteur** : Wiam El khoudri  
 **Module** : Data Science & Machine Learning  
 **Année Universitaire** : 2025-2026  
 **Enseignant** : A. Larhlimi  
