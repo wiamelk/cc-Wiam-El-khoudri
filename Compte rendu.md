@@ -6,8 +6,8 @@
   <img src="https://drive.google.com/uc?export=view&id=1SQpPypsE5ooAj5cJpnNIDXx3qIRhF8Rq" alt="Photo de l'auteur" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
-**Auteur** : [Votre Nom]  
-**Email** : [votre.email@universite.ma]  
+**Auteur** : Wiam El khoudri  
+**Email** : wiamelkhoudri@gmail.com  
 **Module** : Data Science & Machine Learning  
 **Année Universitaire** : 2025-2026  
 **Enseignant** : A. Larhlimi  
